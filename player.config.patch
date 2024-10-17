@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/genericScriptContexts/pat_dropMoneyOnDeath",
+    "value": "/pat/dropmoneyondeath.lua"
+  }
+]

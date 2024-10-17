@@ -1,0 +1,5 @@
+[
+  { "op": "add", "path": "/casual/pat_dropMoneyPercentage", "value": 1.0 },
+  { "op": "add", "path": "/survival/pat_dropMoneyPercentage", "value": 1.0 },
+  { "op": "add", "path": "/hardcore/pat_dropMoneyPercentage", "value": 1.0 }
+]

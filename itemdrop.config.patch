@@ -1,0 +1,10 @@
+[
+  {
+    "op": "add",
+    "path": "/pat_moneyDrop",
+    "value": {
+      "item": "pat_deathmoney",
+      "stacks": 8
+    }
+  }
+]
