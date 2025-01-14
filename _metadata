@@ -8,5 +8,5 @@
   "steamDescription" : "makes you drop your pixels on death instead of losing them forever\n\n[h1]Requires [url=https://github.com/StarExtensions/StarExtensions]StarExtensions[/url] or [url=https://github.com/OpenStarbound/OpenStarbound]OpenStarbound[/url][/h1]\nExcept it will actually kinda work without those. it just wont be able to actually detect which gamemode you're on , so it defaults to \"Casual\"\n\nthumbnail by jade[img]https://cdn.discordapp.com/emojis/1284108294150946858.gif?size=64[/img]\n\n[img]https://i.imgur.com/wXjYMqP.gif[/img]https://discord.gg/GdsQSgV\n[img]https://i.imgur.com/uyG8oTa.gif[/img]https://www.patreon.com/pathiccstar\n[img]https://i.imgur.com/xVfcRRH.gif[/img]https://ko-fi.com/patmanf\n[img]https://i.imgur.com/jJAj6jF.gif[/img]https://github.com/bongus-jive/drop-money-on-death",
   "steamTitle" : "Drop pixels on death [StarExtensions / OpenSB]",
   "tags" : "Miscellaneous",
-  "version" : "1.0"
+  "version" : "1.0.1"
 }
