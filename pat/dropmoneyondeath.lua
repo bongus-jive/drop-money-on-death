@@ -34,6 +34,6 @@ function uninit()
     if count <= 0 then break end
 
     local velocity = randomVector(itemdrop.throwSpeed)
-    world.spawnItem(itemdrop.pat_moneyDrop, position, count, nil, velocity, itemdrop.throwIntangibleTime)
+    world.spawnItem(itemdrop.pat_moneyDrop.item, position, count, nil, velocity, itemdrop.throwIntangibleTime)
   end
 end
